@@ -1,0 +1,5 @@
+DELAY 2000
+GUI r
+DELAY 500
+STRING coolgames555.github.io/haha
+ENTER
